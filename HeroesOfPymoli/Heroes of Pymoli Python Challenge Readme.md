@@ -1,6 +1,6 @@
 ## Heroes of Pymoli Python Challenge
 
-Like many others in its genre, the game Heroes of Pymoli is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. In this challenge, you have to generate a report that breaks down the game's purchasing data into meaningful insights.
+Like many others in its genre, the game Heroes of Pymoli is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. In this challenge, you have to generate a report that breaks down the game's purchasing data into meaningful insights. Please also include a written description of three observable trends based on the data.
 
 Your final report should include each of the following:
 
@@ -70,3 +70,4 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
